@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheetsCodeLabs</string>
+    <string name="open_bottom_sheet_text">Open Bottom Sheet</string>
+    <string name="bottom_sheet_one_text">Bottom Sheet One</string>
+</resources>
